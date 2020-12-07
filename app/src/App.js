@@ -7,7 +7,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <div className="title">
-          I am an Example App Running in  Cloud
+          I am an Example App Running into Cloud
         </div>
       </div>
     );
